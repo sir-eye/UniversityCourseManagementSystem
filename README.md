@@ -7,6 +7,7 @@ This project demonstrates the application of First Normal Form (1NF), Second Nor
 James McCauley
 Shireen Ghazala
 Noor Mamlook
+Elie Inahon
 Daniel Noa
 
 Feel free to explore, modify, and extend the project. Feedback and suggestions are always welcome! 🎉
